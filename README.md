@@ -1,10 +1,10 @@
-# 📊 Sales Analysis Using Python
+#  Sales Analysis Using Python
 
 Welcome to the **Sales Analysis Project**, where we use **Python and data visualization** techniques to extract actionable business insights from sales data.
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 The dataset used for this project is `Sales_Analysis.csv`, which contains detailed sales records including:
 - Order Date
@@ -15,7 +15,7 @@ The dataset used for this project is `Sales_Analysis.csv`, which contains detail
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Clean and preprocess sales data
 - Analyze product and city-wise performance
@@ -25,7 +25,7 @@ The dataset used for this project is `Sales_Analysis.csv`, which contains detail
 
 ---
 
-## 🛠️ Tools & Libraries
+## 🛠 Tools & Libraries
 
 - **Python**
 - `pandas` – Data manipulation
@@ -36,7 +36,7 @@ The dataset used for this project is `Sales_Analysis.csv`, which contains detail
 
 ---
 
-## 📈 Key Visualizations
+##  Key Visualizations
 
 ### 1. Best Month for Sales
 - Bar graph showing monthly sales revenue.
@@ -61,7 +61,7 @@ The dataset used for this project is `Sales_Analysis.csv`, which contains detail
 
 ---
 
-## 📊 Insights
+## Insights
 
 - **December** had the highest sales volume.
 - **San Francisco** was the best-performing city.
@@ -71,7 +71,7 @@ The dataset used for this project is `Sales_Analysis.csv`, which contains detail
 
 ---
 
-## 🔍 Conclusion
+## Conclusion
 
 This project effectively uses **EDA and visualization** to extract valuable business insights. It can be extended further using:
 - Sales forecasting using machine learning
@@ -80,7 +80,7 @@ This project effectively uses **EDA and visualization** to extract valuable busi
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository:
    ```bash
